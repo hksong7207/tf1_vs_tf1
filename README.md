@@ -1,5 +1,5 @@
 # tf1_vs_tf1
-difference between tensorflow1 and tensorflow2
+compare between tensorflow1 and tensorflow2
 
 # install tenforflow 2.0
  %python3 -m venv tf2
